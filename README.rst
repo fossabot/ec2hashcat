@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwrboyce%2Fec2hashcat.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwrboyce%2Fec2hashcat?ref=badge_shield)
+
 ec2hashcat
 ==========
 
@@ -251,3 +253,7 @@ Known Issues
 - the required AMI is only available in us-east-1 and eu-west-1, if you need another region `open an issue`_.
 
 .. _open an issue: https://github.com/wrboyce/ec2hashcat/issues/new
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwrboyce%2Fec2hashcat.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwrboyce%2Fec2hashcat?ref=badge_large)
